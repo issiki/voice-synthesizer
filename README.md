@@ -2,6 +2,8 @@
 powered by tencent TTS. 使用腾讯语音合成接口的声音生成程序，用于为不想自己配音的视频生成声音片段？
 
 ## Usage
+首先，需要开通腾讯云的语音合成接口，[在此页面申请开通](https://cloud.tencent.com/product/tts)。
+然后
 ```bash
 $ git clone https://github.com/issiki/voice-synthesizer.git
 $ cd voice-synthesizer
